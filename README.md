@@ -43,9 +43,9 @@ Test with Highest Average: Test 3
 *************************************************
 Failures in Each Test
 *************************************************
-Test 1: 0 failures
+Test 1: 1 failures
 Test 2: 1 failures
-Test 3: 0 failures
+Test 3: 1 failures
 *************************************************
 STUDENT      CASS MARK    EXAM ENTRY
 0            61.67        Yes
